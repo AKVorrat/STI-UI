@@ -1,4 +1,4 @@
-baseurl = "http://sti.produktion.io/"
+baseurl = "https://beta.savetheinternet.eu/"
 languageCode = "en-us"
 title = "SAVE THE INTERNET"
 theme = "sti"
