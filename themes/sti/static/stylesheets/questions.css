@@ -1,4 +1,14 @@
 @charset "UTF-8";
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("fonts/Montserrat/Montserrat-Regular.eot");
+  src: url("fonts/Montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat/Montserrat-Regular.svg#Montserrat-Regular") format("svg"); }
+
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot");
+  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.woff") format("woff"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf") format("truetype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.svg#SourceSansPro-Regular") format("svg"); }
+
 /*! normalize.css v2.0.1 | MIT License | git.io/normalize */
 /* ==========================================================================
    HTML5 display definitions
@@ -6133,7 +6143,7 @@ button.close {
     color: white;
     padding: 8px 10px;
     font-size: 15px;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "SourceSansPro-Regular", sans-serif;
     font-style: italic;
     line-height: 15px;
     white-space: nowrap; }
@@ -6767,11 +6777,11 @@ button.close {
   background-position: -64px -96px; }
 
 html {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   font-size: 20px; }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 50px;
   line-height: 60px;
@@ -6785,7 +6795,7 @@ h1 {
   padding-right: 7.56303% !important; }
 
 h2 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 30px;
@@ -6800,7 +6810,7 @@ h2 {
   padding-right: 7.56303% !important; }
 
 h3 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 25px;
   line-height: 30px;
@@ -6814,7 +6824,7 @@ h3 {
   padding-right: 7.56303% !important; }
 
 h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 300;
   font-style: italic;
   font-size: 15px;
@@ -6829,7 +6839,7 @@ h4 {
   padding-right: 7.56303% !important; }
 
 p {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin-top: 30px;
@@ -6843,7 +6853,7 @@ p {
 
 a {
   color: #004E84;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   text-decoration: none;
   font-size: 20px;
   line-height: 30px;
@@ -7044,7 +7054,7 @@ a {
     margin-bottom: 3.36134%;
     padding-bottom: 0px; }
   .questions-form__header__navigation__step__content .step-label h3 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 30px;
@@ -7057,7 +7067,7 @@ a {
     line-height: 1.1rem;
     margin: 0; }
   .questions-form__header__navigation__step__content .step-label p {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "SourceSansPro-Regular", sans-serif;
     font-weight: 400;
     font-style: italic;
     font-size: 12px;
@@ -7121,7 +7131,7 @@ a {
     padding-left: 7.56303% !important;
     padding-right: 7.56303% !important; }
   .questions-form__body__content__header h1 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 700;
     font-size: 30px;
     line-height: 30px;
@@ -7134,7 +7144,7 @@ a {
     padding-left: 7.56303% !important;
     padding-right: 7.56303% !important; }
   .questions-form__body__content__header h3 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
@@ -7165,7 +7175,7 @@ a {
     padding-left: 7.56303% !important;
     padding-right: 7.56303% !important; }
     .questions-form__body__content__body .checkbox label {
-      font-family: "Source Sans Pro", sans-serif;
+      font-family: "SourceSansPro-Regular", sans-serif;
       font-size: 20px;
       line-height: 30px;
       margin-top: 0px;
@@ -7220,7 +7230,7 @@ a {
 .question-explanation {
   display: none; }
   .question-explanation p {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "SourceSansPro-Regular", sans-serif;
     font-size: 20px;
     line-height: 30px;
     margin-top: 0px;
@@ -7240,7 +7250,7 @@ a {
   padding-right: 7.56303% !important;
   margin-bottom: 7.56303%; }
   .form-group label {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 30px;
@@ -7254,7 +7264,7 @@ a {
     margin-bottom: 3.36134%; }
   .form-group textarea {
     color: #010101 !important;
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "SourceSansPro-Regular", sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -7267,7 +7277,7 @@ a {
     margin-bottom: 3.36134%; }
 
 .email-step {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
@@ -7281,7 +7291,7 @@ a {
   text-align: center; }
 
 .email-step-number {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 20px;
   line-height: 30px;
@@ -7344,7 +7354,7 @@ input[type="checkbox"]:checked + label:before {
   display: inline-block;
   color: #ffffff;
   background-image: linear-gradient(0deg, #004e84 0%, #0076ce 100%);
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-size: 18px;
   line-height: 30px;
   margin-top: 0px;

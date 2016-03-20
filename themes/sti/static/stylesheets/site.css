@@ -1337,6 +1337,16 @@ input[type="button"].btn-block {
   .carousel-indicators {
     bottom: 20px; } }
 
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("fonts/Montserrat/Montserrat-Regular.eot");
+  src: url("fonts/Montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Montserrat/Montserrat-Regular.woff") format("woff"), url("fonts/Montserrat/Montserrat-Regular.ttf") format("truetype"), url("fonts/Montserrat/Montserrat-Regular.svg#Montserrat-Regular") format("svg"); }
+
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot");
+  src: url("fonts/Source_Sans_Pro/SourceSansPro-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.woff") format("woff"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf") format("truetype"), url("fonts/Source_Sans_Pro/SourceSansPro-Regular.svg#SourceSansPro-Regular") format("svg"); }
+
 .flag {
   display: inline-block;
   width: 16px;
@@ -1494,11 +1504,11 @@ input[type="button"].btn-block {
   background-position: -64px -96px; }
 
 html {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   font-size: 20px; }
 
 h1 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 50px;
   line-height: 60px;
@@ -1512,7 +1522,7 @@ h1 {
   padding-right: 7.56303% !important; }
 
 h2, .home__info__container__content__berec-decision-5 h2 a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 30px;
@@ -1527,7 +1537,7 @@ h2, .home__info__container__content__berec-decision-5 h2 a {
   padding-right: 7.56303% !important; }
 
 h3 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 700;
   font-size: 25px;
   line-height: 30px;
@@ -1541,7 +1551,7 @@ h3 {
   padding-right: 7.56303% !important; }
 
 h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 300;
   font-style: italic;
   font-size: 15px;
@@ -1556,7 +1566,7 @@ h4 {
   padding-right: 7.56303% !important; }
 
 p {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin-top: 30px;
@@ -1570,7 +1580,7 @@ p {
 
 a {
   color: #004E84;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "SourceSansPro-Regular", sans-serif;
   text-decoration: none;
   font-size: 20px;
   line-height: 30px;
@@ -1773,7 +1783,7 @@ a {
 
 .counter-message {
   display: block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 400;
   text-align: left;
   letter-spacing: 0.025rem;
@@ -1794,7 +1804,7 @@ a {
 .counter-message-description, .counter-days-left-description {
   display: block;
   color: #010101;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 400;
   text-align: left;
   font-size: 16px;
@@ -1813,7 +1823,7 @@ a {
 
 .counter-days-left {
   display: block;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-weight: 400;
   text-align: center;
   font-size: 43px;
@@ -1973,7 +1983,7 @@ a {
 .home__fix-net-neutrality {
   background-color: #89D3F6; }
   .home__fix-net-neutrality p {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
@@ -2092,7 +2102,7 @@ a {
   .home__questions h1 {
     text-align: center; }
   .home__questions p {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
@@ -2339,7 +2349,7 @@ a {
   .faq ul li {
     list-style-type: none; }
   .faq h3 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat-Regular", sans-serif;
     font-weight: 400;
     font-size: 30px;
     line-height: 30px;
@@ -2354,7 +2364,7 @@ a {
     padding-left: 7.56303% !important;
     padding-right: 7.56303% !important; }
     .faq h3 a {
-      font-family: "Montserrat", sans-serif;
+      font-family: "Montserrat-Regular", sans-serif;
       font-weight: 400;
       text-decoration: none;
       font-size: 30px;
@@ -2439,7 +2449,7 @@ input[type="checkbox"]:checked + label:before {
   display: inline-block;
   color: #ffffff;
   background-image: linear-gradient(0deg, #004e84 0%, #0076ce 100%);
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat-Regular", sans-serif;
   font-size: 18px;
   line-height: 30px;
   margin-top: 0px;

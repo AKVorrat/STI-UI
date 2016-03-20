@@ -7,16 +7,14 @@
 	  <title> {{ .Title }} &middot; {{ .Site.Title }} </title>
 	  <!-- Stylesheets -->
     <link href="{{ .Site.BaseURL }}/stylesheets/questions.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/stylesheets/vendor/bootstrap-select.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/stylesheets/vendor/font-awesome.min.css">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ .Site.BaseURL }}/apple-touch-icon-144-precomposed.png">
 	  <link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico">
     <script>
       // important: set parent html origin here!
       // var targetOrigin = 'http://localhost:1313';
-      var targetOrigin = 'http://beta.savetheinternet.eu';
+      var targetOrigin = 'https://beta.savetheinternet.eu';
       window.iFrameResizer = {
         targetOrigin: targetOrigin
       }

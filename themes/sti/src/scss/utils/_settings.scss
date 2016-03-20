@@ -4,11 +4,17 @@
 // Vars and Settings
 // =============================================================================
 
+@import '_functions';
+
 // -----------------------------------------------------------------------------
 // Font Stacks
 // -----------------------------------------------------------------------------
-$sourcesans: 'Source Sans Pro', sans-serif;
-$montserrat: 'Montserrat', sans-serif;
+
+@include font-face("Montserrat-Regular", "Montserrat-Regular", "Montserrat", "sans-serif")
+@include font-face("SourceSansPro-Regular", "SourceSansPro-Regular", "Source_Sans_Pro", "sans-serif")
+
+$sourcesans: 'SourceSansPro-Regular', sans-serif;
+$montserrat: 'Montserrat-Regular', sans-serif;
 
 // -----------------------------------------------------------------------------
 // Font Sizes (_verticalrythm.scss)
