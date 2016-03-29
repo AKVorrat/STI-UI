@@ -2106,16 +2106,21 @@ a {
   margin-left: auto !important;
   margin-right: auto !important;
   text-align: center;
-  min-height: 320px;
-  max-width: 320px; }
+  min-height: 240px;
+  min-width: 320px; }
   @media (min-width: 640px) {
     .home-video {
       min-height: 380px;
-      max-width: 640px; } }
+      min-width: 180px; } }
 
 .videoplaceholder {
   cursor: pointer;
   opacity: 0.7; }
+  .videoplaceholder img {
+    width: 300px; }
+    @media (min-width: 640px) {
+      .videoplaceholder img {
+        width: unset; } }
 
 .videoplaceholder:hover {
   opacity: 1; }
@@ -2134,6 +2139,9 @@ a {
   bottom: 0; }
   .carousel-indicators li {
     box-sizing: border-box; }
+
+.carousel-inner {
+  margin: auto; }
 
 .home__fix-net-neutrality {
   background-color: #89D3F6; }
