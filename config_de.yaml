@@ -1,0 +1,8 @@
+baseurl:    "https://savetheinternet.eu"
+title:      "SAVE THE INTERNET"
+contentdir: "content/de"
+publishdir: "public/de"
+theme:      "sti"
+
+params:
+  language: "de"
