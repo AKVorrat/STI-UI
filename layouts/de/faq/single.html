@@ -1,0 +1,12 @@
+{{ partial "site-header.html" . }}
+{{ partial "site-nav-bar.html" . }}
+<section class="faq">
+  <div class="faq__container">
+    <div class="faq__container__content">
+      <section class="faq__container__content__main">
+        {{ .Content }}
+      </section>
+    </div>
+  </div>
+</section>
+{{ partial "site-footer.html" . }}

@@ -1,0 +1,75 @@
+{{ $stepNumber := $.Scratch.Get "stepNumber" }}
+
+<div class="top-container-fixed">
+  <header class="questions-form__header">
+    <div class="questions-form__header__locality">
+      <div class="questions-form__header__locality__country">
+        <label for="questions-form__header__locality__country__select">Choose country:</label>
+        <select title="––––––" class="selectpicker" id="questions-form__header__locality__country__select" name="questions-form__header__locality__country__select">
+          <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
+          <option data-content="<i class='flag flag-retina flag-de'></i><span class='flag-label'>Germany</span>" value="DE">Germany</option>
+          <option data-content="<i class='flag flag-retina flag-cy'></i><span class='flag-label'>Cyprus</span>" value="CY">Cyprus</option>
+        </select>
+      </div>
+      <div class="questions-form__header__locality__language">
+        <label for="questions-form__header__locality__language__select">Choose language:</label>
+        <select title="––––––" class="selectpicker" id="questions-form__header__locality__language__select" name="questions-form__header__locality__language__select">
+          <option value="EN">English</option>
+          <option value="DE">German</option>
+        </select>
+      </div>
+    </div>
+    <nav class="questions-form__header__navigation">
+      <ul class="questions-form__header__navigation__steps">
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-1" class="btn questions-form__header__navigation__step__content {{ if eq $stepNumber 1 }}active{{ end }}" href="{{ if eq $stepNumber 1 }}#{{ else }}step-1{{ end }}">
+            <div class="step-number">
+              <span class="encircled"><span class="number">1</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-check-square{{ if eq $stepNumber 1 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
+              <h3>Multiple <br>Choice</h3>
+            </div>
+          </button>
+          <div class="triangle-step {{ if eq $stepNumber 1 }}triangle-blue{{ end }}"></div>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-2" class="btn questions-form__header__navigation__step__content {{ if eq $stepNumber 2 }}active{{ end }}" href="{{ if eq $stepNumber 2 }}#{{ else }}step-2{{ end }}">
+            <div class="step-number">
+              <span class="encircled"><span class="number">2</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-pencil-square{{ if eq $stepNumber 2 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
+              <h3>Open <br>Questions #1</h3>
+            </div>
+          </button>
+          <div class="triangle-step {{ if eq $stepNumber 2 }}triangle-black{{ end }}"></div>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-3" class="btn questions-form__header__navigation__step__content {{ if eq $stepNumber 3 }}active{{ end }}" href="{{ if eq $stepNumber 3 }}#{{ else }}step-3{{ end }}">
+            <div class="step-number">
+              <span class="encircled"><span class="number">3</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-pencil-square{{ if eq $stepNumber 3 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
+              <h3>Open <br>Questions #2</h3>
+            </div>
+          </button>
+          <div class="triangle-step {{ if eq $stepNumber 3 }}triangle-blue-sky{{ end }}"></div>
+        </li>
+        <li class="questions-form__header__navigation__step">
+          <button type="button" id="questions-form__header__navigation__step-4" class="btn questions-form__header__navigation__step__content {{ if eq $stepNumber 4 }}active{{ end }}" href="{{ if eq $stepNumber 4 }}#{{ else }}step-4{{ end }}">
+            <div class="step-number">
+              <span class="encircled"><span class="number">4</span></span>
+            </div>
+            <div class="step-label">
+              <i class="fa fa-envelope{{ if eq $stepNumber 4 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
+              <h3>Send<br>Message</h3>
+            </div>
+            <div class="triangle-step {{ if eq $stepNumber 4 }}triangle-gray{{ end }}"></div>
+          </button>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</div>
