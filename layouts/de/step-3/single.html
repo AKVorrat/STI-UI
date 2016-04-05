@@ -1,0 +1,30 @@
+{{ $.Scratch.Add "stepNumber" 3 }}
+{{ partial "questions-header" . }}
+
+<form action="/step-4" method="POST" class="questions-form">
+  {{ partial "questions-form-header" . }}
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <p>Express your opinion by answering the questions below, click &nbsp;<i class="fa fa-caret-down"></i> for further explanations.</p>
+        </header>
+        <section class="questions-form__body__content__body">
+          <fieldset class="form-group">
+            <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
+            <div class="question-explanation">
+              <p>While the delivery of specialised services is allowed under the Regulation, they cannot be offered as a replacement for Internet access services. Otherwise, ISPs would be conducting price discrimination practices. In its <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">2012 guidelines</a>, BEREC stated that price discrimination practices offering access to a limited part of the Internet would have a negative effect on consumers' rights.</p>
+            </div>
+            <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
+          </fieldset>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <button class="action-button-back" type="submit" name="action" value="2"><i class="fa fa-chevron-left"></i> Back</button>
+          <button class="action-button-go-to-submission" type="submit" name="action" value="4">Go to submission <i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></button>
+        </section>
+      </div>
+    </section>
+  </div>
+</form>
+
+{{ partial "questions-footer.html" . }}
