@@ -1,0 +1,21 @@
+{{ $iframeURL := "https://consultation.savetheinternet.eu/en/" }}
+
+{{ if eq .Site.Params.language "de" }}
+  {{ $iframeURL := "https://consultation.savetheinternet.eu/de/" }}
+{{ end }}
+
+<section class="home__questions">
+  <div class="home__questions__container">
+    <div class="home__questions__container__content">
+      <header class="home__questions__container__content__header">
+        <h1>Dile a tus reguladores nacionales y al ORECE que protejan la neutralidad de la red</h1>
+        <p>Da tu opinión sobre la nueva ley de neutralidad de la red a los reguladores usando el cuestionario a continuación. Generaremos un email a partir de las cuestiones de múltiple opción y abiertas que contestes. Enviaremos tu email a la consulta oficial de los Reguladores de Telecomunicaciones de la UE (ORECE) cuando se abra en junio de 2016.</p>
+      </header>
+      <section class="home__questions__container__content__body">
+        <div id="questionnaire-loading-spinner">Cargando el Cuestionario <i class="fa fa-circle-o-notch fa-spin"></i></div>
+        <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="{{ $iframeURL }}" scrolling="no"></iframe>
+        <!-- <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="/step-1" scrolling="no"></iframe> -->
+      </section>
+    </div>
+  </div>
+</section>

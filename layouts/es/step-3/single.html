@@ -1,0 +1,30 @@
+{{ $.Scratch.Add "stepNumber" 3 }}
+{{ partial "questions-header" . }}
+
+<form action="/step-4" method="POST" class="questions-form">
+  {{ partial "questions-form-header" . }}
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <p>Expresa tu opinión contestando a las cuestiones a continuación, haz click en &nbsp;<i class="fa fa-caret-down"></i> para más información.</p>
+        </header>
+        <section class="questions-form__body__content__body">
+          <fieldset class="form-group">
+            <label for="q10">What could be the positive and negative impacts of specialised services on future innovation and openness of the Internet? <a href="#" class="expand-arrow"><i class="fa fa-caret-down"></i></a></label>
+            <div class="question-explanation">
+              <p>Mientras que los servicios específicos están permitidos en la Regulación, estos no pueden ser ofrecidos como sustituro a los servicios de acceso a Internet. De otro modo, los proveedores de Internet estarían llevando a cabo prácticas de discriminación por precio. En sus <a href="http://berec.europa.eu/files/news/bor_12_32_guidelines.pdf" target="_blank">directrices de 2012</a>, el ORECE estipuló que las prácticas de discriminación por precio ofreciendo acceso limitado a una parte de Internet tendrían efectos negativos en los derechos de los consumidores.</p>
+            </div>
+            <textarea class="form-control" id="q10" name="q10" rows="3"></textarea>
+          </fieldset>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <button class="action-button-back" type="submit" name="action" value="2"><i class="fa fa-chevron-left"></i> Back</button>
+          <button class="action-button-go-to-submission" type="submit" name="action" value="4">Ir a enviar <i class="fa fa-chevron-right"></i><i class="fa fa-chevron-right"></i></button>
+        </section>
+      </div>
+    </section>
+  </div>
+</form>
+
+{{ partial "questions-footer.html" . }}
