@@ -160,7 +160,7 @@ Traffic management affects your everyday Internet experience. When your Netflix 
 
 If the EU rules are abused, the online services you want to use could be slowed down to the level that they become unusable while other competing services promoted by your own Internet provider could still work properly. 
 
-Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of his its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
+Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
 
 
 <a name="shouldnt-internet-providers-be-allowed-to-manage-their-networks"></a>
@@ -174,9 +174,9 @@ We can therefore say that class-based traffic management measures are: 
 
 -        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
 
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
+-        More Discriminatory than application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
 
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
+-        Less proportionate than application agnostic measures, because it is always less intrusive and better for user-choice;
 
 
 <a name="what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management"></a>

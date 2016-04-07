@@ -1,0 +1,59 @@
+{{ $.Scratch.Add "stepNumber" 4 }}
+{{ partial "questions-header" . }}
+
+<form action="/step-3" method="POST" class="questions-form">
+  {{ partial "questions-form-header" . }}
+  <div class="bottom-container">
+    <section class="questions-form__body">
+      <div class="questions-form__body__content">
+        <header class="questions-form__body__content__header">
+          <h1>Ahora envía este correo a tu regulador</h1>
+        </header>
+        <section class="questions-form__body__content__body">
+          <fieldset class="form-group">
+            <label for="response">Tu E-Mail:</label>
+            <textarea class="form-control" id="response" data-response-count="6" rows="15">
+Querido señor o señora,
+
+A propósito de la actual elaboración de directrices por parte del ORECE para la implementación de la regulación del mercado único de las telecomunicaciones quisiera que tomara en cuenta la siguiente opinión.
+
+La capacidad innovadora y la diversidad del ecosistema de Internet está construída sobre la capacidad de innovar a bajo coste y las bajas barreras de entrada al mercado. Estos principios aseguran desde el día uno que cualquier emprendedor, "stratup" o servico no comercial -- sin importar el tamaño o la financiación -- tiene el potencial de alcanzar una audiencia global de igual manera que sus competidores. Esta fuerza impulsora de la prosperidad y la diversidad de la economía online solo puede asegurarse con una Internet abierta, neutral y no discriminatoria. Cuando se les permite a los proveedores de Internet interferir en las decisiones que toman sus clientes, con discriminaciones técnicas o económicas, se pierde esta libertad esencial. De acuerdo con la Consideración 1, la Regulación debe interpretar a la luz de estos objetivos.
+
+La Regulación del mercado único de las comunicaciones permite los servicios específicos solamente bajo condiciones estrictas. El Artículo 3(5) y la Consideración 16 requiren que la optimización del servicio específico sea objetivamente necesarioa para la funcionalidad de características clave del servicio. Este no puede ser el caso de servicios que puden funcionar también en el Internet abierto y de entrega al mejor esfuerzo ("best effort"). Más aún, la Consideración 16 previene que los servicios específicos se usen para la elusión de las reglas generales de la neutralidad de la red para la gestión de tráfico. Cualquier desviación de estas condiciones para ampliar la aplicabilidad del concepto de servicio específico supondría inevitablemente un incrementeo de las barreras de acceso al mercado y la debilitación del potencial innovador de Internet en si.
+
+Si a los proveedores de Internet se les permite el cobro a cambio de un tratamiento preferente, tienen un incentivo para dejar de invertir en las capacidades "normales" de su red y reducir los límites de datos empujando a los usuarios a usar sus servicios específicos. Este efecto daña a los nuevos emprendedores y "start-ups", que no tienen recursos para permitirse esta vía preferente a través de la que alcanzar a sus potenciales clientes, y es perjudicial para el ecosistema abierto, libre e innovador de Internet.
+
+La discriminación económico ("zero-rating") interfiere con mi derechos expresado en el Artículo 3(1) de acceder y distribuir información libremente. Si un proveedor de Internet discrimina entre diferentes proveedores de contenido, servicios o aplicaciones en Internet haciendo que sean desigualmente accesibles, esto constituye una interferencia arbitraria a la esencia de mi derecho. Más aún, esta práctica restringe mis derechos recogidos en la Carta de Derechos Fundamentales (Artículos 11, 15(2), y 16). Así pues, la discriminación económica no debe quedar expresamnete prohibida en las directrices del ORECE.
+
+Las regulación contiene normas muy claras sobre qué contituye una gestión de tráfico razonable. De acuerdo con el Artículo 3(3), toda gestión del tráfico debe realizarse si es posible de manera agnóstica respecto a las aplicaciones. La gestión de tráfico según la clase daña la competitividad, supone una amenaza involuntaria a determinadas aplicaciones, puede discriminar el tráfico encriptado, pone a los proveedores de sericios y aplicaciones en situación de incerteza, obstaculiza la innovación, puede dañar a los usuarios individuales y crear sobrecargas regulatorias. Así pues, aplicar de medidas de gestión del tráfico según la clase en situaciones en las que una gestión del tráfico agnóstica sería suficiente no es necesario ni proporcionado, no es transparente para el usuario, y no es no-discriminatorio.
+
+Es muy importante hacer hincapié en que la transparencia no puede, tal y como quiso proponer la Comisión en su borrador inicial de la Regulación y fue rechazado, ser considerada en si misma como un antídoto para los comportamientos anti-competitivos. La transparencia tiene un alcance limitado para corregir los problemas, particularmente en este contexto.
+
+Cordialmente,
+Un ciudadano interesado
+            </textarea>
+            <button class="action-button-back" type="submit" name="action" value="3"><i class="fa fa-chevron-left"></i> Back</button>
+          </fieldset>
+        </section>
+        <section class="questions-form__body__content__actions">
+          <p class="email-step" data-hidden-when-empty-response="#response">
+            <span class="email-step-number">Paso 1:</span> Copia el texto anterior con Botón derecho -> Copiar (o Ctrl+C) o <br>
+            <a href="#" class="btn action-button" id="copy-button" data-clipboard-target="#response" data-copied-text="Text copied!" role="button">click here</a>
+          </p>
+          <p class="email-step">
+            <span class="email-step-number">Paso 2:</span>
+            Envía un mail <a href="mailto:oskar.grande@gmail.com?bcc=oskar@daruma.io" class="action-button">desde tu dispositivo</a>
+            <br>
+            o a través
+            <a class="action-button" role="button">gmail</a> <a class="action-button" role="button">yahoo</a> <a class="action-button" role="button">hotmail</a>
+          </p>
+          <p class="email-step">
+            <span class="email-step-number">Paso 3:</span> Paste the text by Right-click -> Paste (Ctrl+V) in the body and send.
+          </p>
+        </section>
+      </div>
+    </section>
+  </div>
+</form>
+
+{{ partial "questions-footer" . }}
