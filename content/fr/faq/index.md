@@ -1,5 +1,4 @@
-# FREQUENTLY ASKED QUESTIONS
-
+# FOIRE AUX QUESTIONS
 
 ## Net Neutrality
 
