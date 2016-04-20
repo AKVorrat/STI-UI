@@ -7,4 +7,4 @@ layoutdir:  "layouts/fr"
 
 params:
   language:   "fr"
-  takeaction: "Join us and take action! Send a message to your regulator:"
+  takeaction: "Rejoignez-nous et agissons ! Envoyez un message à votre régulateur :"
