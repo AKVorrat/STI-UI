@@ -4,14 +4,15 @@
     <div class="nav-bar-content">
       <nav class="nav-bar-content__nav">
         <ul class="nav-main">
-          <li><a href="/{{ $language }}/#send-a-message" class="send-a-message">Send a message!</a></li>
-          <li><a href="/{{ $language }}/#info">Information</a></li>
+          <li><a href="/{{ $language }}/#send-a-message" class="send-a-message">Trimite un mesaj!</a></li>
+          <li><a href="/{{ $language }}/#info">Informații</a></li>
           <li><a href="/{{ $language }}/faq">FAQ</a></li>
         </ul>
         <ul class="nav-language">
           <li><a {{ if eq $language "en" }} href="#" class="active" {{ else }} href="/en" {{ end }}>EN</a></li>
           <!-- <li><a {{ if eq $language "de" }} href="#" class="active" {{ else }} href="/de" {{ end }}>DE</a></li>
-          <li><a {{ if eq $language "fr" }} href="#" class="active" {{ else }} href="/fr" {{ end }}>FR</a></li> -->
+          <li><a {{ if eq $language "fr" }} href="#" class="active" {{ else }} href="/fr" {{ end }}>FR</a></li>
+          <li><a {{ if eq $language "ro" }} href="#" class="active" {{ else }} href="/ro" {{ end }}>RO</a></li> -->
         </ul>
       </nav>
     </div>

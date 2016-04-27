@@ -1,285 +1,285 @@
-# FREQUENTLY ASKED QUESTIONS
+# ÎNTREBĂRI FRECVENTE
 
 
-## Net Neutrality
+## Neutralitatea Internetului
 
-- [What is net neutrality?](#what-is-net-neutrality)
-- [How does net neutrality influence me and my life?](#how-does-net-neutrality-influence-me-and-my-life)
-- [How did we end up here? What happened in the EU?](#how-did-we-end-up-here-what-happened-in-the-eu)
-- [Who is involved in the debate in Europe?](#who-is-involved-in-the-debate-in-europe)
-- [Who is behind SaveTheInternet.eu?](#who-is-behind-savetheinterneteu)
+- [Ce este neutralitatea Internetului?](#what-is-net-neutrality)
+- [Cum mă influențează pe mine și viața mea neutralitatea Internetului?](#how-does-net-neutrality-influence-me-and-my-life)
+- [Cum s-a ajuns aici? Ce s-a întîmplat în UE?](#how-did-we-end-up-here-what-happened-in-the-eu)
+- [Cine este implicat în dezbaterea acesta în Europa?](#who-is-involved-in-the-debate-in-europe)
+- [Cine este în spatele SaveTheInternet.eu?](#who-is-behind-savetheinterneteu)
 
-## Specialised Services
-- [What are specialised services?](#what-are-specialised-services)
-- [What are examples of services that are not specialised services?](#what-are-examples-of-services-that-are-not-specialised-services)
-- [What safeguards are in EU law to deal with specialised services?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services)
-- [What is required to strengthen the safeguards on specialised services and why is this important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important)
+## Servicii Specializate
+- [Ce sunt serviciile specializate?](#what-are-specialised-services)
+- [Care sunt exemple de servicii care nu sunt servicii specializate?](#what-are-examples-of-services-that-are-not-specialised-services)
+- [Ce măsuri de siguranță există în legislația UE pentru a gestiona serviciile specializate?](#what-safeguards-are-in-eu-law-to-deal-with-specialised-services)
+- [De ce e nevoie pentru a întări măsurile de siguranță vis-a-vis de serciile specializate și de ce este acesta un lucru important?](#what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important)
 
-## Traffic Management
-- [What is traffic management?](#what-is-traffic-management)
-- [Why should I care about traffic management?](#why-should-i-care-about-traffic-management)
-- [Shouldn't internet providers be allowed to manage their networks?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks)
-- [What is the goal of SaveTheInternet.eu when it comes to traffic management?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management)
-- [When can a provider start managing its network?](#when-can-a-provider-start-managing-its-network)
+## Managementul Traficului
+- [Ce este managementul traficului?](#what-is-traffic-management)
+- [De ce mi-ar păsa de managementul traficului?](#why-should-i-care-about-traffic-management)
+- [Nu ar trebui ca furnizorii de servicii Internet să aibă voie să-și administreze rețelele proprii?](#shouldnt-internet-providers-be-allowed-to-manage-their-networks)
+- [Care este obiectivul SaveTheInternet.eu când vine vorba de managementul traficurlui?](#what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management)
+- [Când poate un furnizor de servicii Internet să înceapă să-și administreze rețeaua?](#when-can-a-provider-start-managing-its-network)
 
 ## Zero Rating
-- [What is zero rating?](#what-is-zero-rating)
-- [Why is zero rating a problem?](#why-is-zero-rating-a-problem)
-- [Am I really getting something for free when I use a zero rating programme?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme)
-- [How can zero rating affect providers of online services and the diversity of the Internet ecosystem?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem)
-- [What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating)
+- [Ce este zero rating?](#what-is-zero-rating)
+- [De ce este zero rating o problemă?](#why-is-zero-rating-a-problem)
+- [Chiar primesc ceva gratis când folosesc o ofertă zero rating?](#am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme)
+- [Cum poate zero rating-ul să afecteze furnizorii de servicii online și diversitatea ecostistemului Internetului?](#how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem)
+- [Care este obiectivul SaveTheInternet.eu când vine vorba de zero rating?](#what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating)
 
-## TRANSPARENCY
-- [What benefits can we expect with the new net neutrality rules?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules)
-- [What type of transparency can be expected with the new rules?](#what-type-of-transparency-can-be-expected-with-the-new-rules)
+## Transparență
+- [Care sunt beneficiile la care ne putem aștepta de pe urma noului regulament privitor la neutralitatea Internetului?](#what-benefits-can-we-expect-with-the-new-net-neutrality-rules)
+- [La ce fel de transparență ne putem aștepta cu noile reguli?](#what-type-of-transparency-can-be-expected-with-the-new-rules)
 
-## Other
-- [How is net neutrality dealt with in other parts of the world?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world)
-- [How can I help you?](#how-can-i-help-you)
+## Altele
+- [Cum este neutralitatea Internetului abordată în alte părți ale lumii?](#how-is-net-neutrality-dealt-with-in-other-parts-of-the-world)
+- [Cum pot ajuta?](#how-can-i-help-you)
 
 
 
-# Net Neutrality
+# Neutralitatea Internetului
 
 <a name="what-is-net-neutrality"></a>
-## What is net neutrality?
+## Ce este neutralitatea Internetului?
 
-Net neutrality is the principle under which Internet access providers carry data without discrimination on the basis of origin, destination or type of data. This means that net neutrality prohibits telecoms operators from blocking or degrading content, applications or services.
+Neutralitatea Internetului este principiul conform căruia furnizorii de servicii de acces la Internet transportă date fără discriminare pe baza sursei, a desintației sau a tipului de date. Aceasta înseamnă că neutralitatea Internetului împiedică operatorii de telecomunicații de la a bloca sau a diminua caliatea conținutului, a aplicațiilor sau a serviciilor.
 
-Net neutrality guarantees your freedom online to access and distribute the information you want.This founding principle ensures the openness, innovation, competition and diversity of the Internet.
+Neutraliatea Internetului garantează libetatea ta de a accesa și distribui online informația dorită. Acest principiu de căpătâi asigură deschiderea, inovația, competiția și diversitatea Internetului.
 
 
 <a name="how-does-net-neutrality-influence-me-and-my-life"></a>
-## How does net neutrality influence me and my life?
+## Cum mă influențează pe mine și viața mea neutralitatea Internetului?
 
-Without net neutrality...
+Fără neutralitatea Internetului...
 
-1.        You would pay more for less Internet and your Internet provider would become a gatekeeper between you and the online services and applications that you like.
+1.        Ai plăti mai mult pentru mai puțin Internet iar furnizorul tău de servicii Internet ar deveni un portar între tine și serviciile și aplicațiile tale online.
 
-2.        New cool new websites and inventions would not be as fast and accessible as the big, incumbent US websites. They might not even survive long enough to become popular.
+2.        Website-uri noi și alte inovații online nu ar fi la fel de rapride și la fel de accesibile ca cele ale jucătorilor mari deja existenți pe piață. S-ar putea ca noii veniți nici măcar să nu supraviețuiască suficient de mult pentru a deveni populari.
 
-3.        The economy and start-ups would suffer it. With net neutrality, everybody can invent a new service without asking for permission and benefit from a global, neutral infrastructure from day one. If we lose this freedom, we lose much of the huge economic success of the digital economy and our freedom to choose as consumers and communicate as citizens.
+3.        Economia și startup-urile ar suferi. Cu neutralitatea Internetului, oricine poate inventa un serviciu nou fără a fi nevoit să ceară voie de la nimeni și beneficiaș de o infrastructură neutră și globală încă din prima zi. Dacă pierdem această libertate, pierdem cea mai mare parte din succesul econmomic al economiei digitale si libertatea de a alege, ca consumatori, și de a comunica, ca cetățeni.
 
-4.        The Internet would be slower. Studies have shown that if Internet providers were allowed to sell a competitive advantage to a few websites, they would have an incentive to make the rest of the Internet slower for everybody else. Even when it looks like you are getting something cheap in reality you have fewer options and a smaller download limit left for using the real Internet.
+4.        Internetul ar fi mai lent. Studiile arată că dacă furnizorii de servicii de Internet ar avea voie să vândă avantaje competitive doar unor website-uri, ar avea un stimulent pentru a face restul Internetului mai lent pentru toți ceilalți. Chiar când pare că primești ceva ieftin, în realitate ai mai puține optiuni și o limita de trafic mai mică pentru folosirea întregului Internetului.
 
-[How data caps harm consumers and innovation](https://www.newamerica.org/oti/artificial-scarcity/)
+[Cum limitele de trafic pentru date afectează în mode negativ consumatorii și inovația](https://www.newamerica.org/oti/artificial-scarcity/)
 
-[How zero-rating hurt Dutch consumers](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
+[Cum zero rating afectează în mod negativ consumatorii olandezi](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) 
 
-[Zero-rating in Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
+[Zero-rating în Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) 
 
 
 <a name="how-did-we-end-up-here-what-happened-in-the-eu"></a>
-## How did we end up here? What happened in the EU?
+## Cum s-a ajuns aici? Ce s-a întîmplat în UE?
 
-Many of the NGOs behind this campaign have fought for net neutrality as early as 2008. As the debate unfolded, we saw more and more violations of the principle of net neutrality in the Internet. When the US telecoms regulator FCC released its first Internet order to protect the fixed-line Internet against some forms of network discrimination, this was a big success for net neutrality. Subsequently, [ other countries adopted legislation and regulatory decisions to safeguard net neutrality](https://www.thisisnetneutrality.org/#map). This is the case of, for example, Chile, the Netherlands, Slovenia, India and Canada. 
+Multe dintre ONG-urile din spatele acestei campanii lupta pentru neutralitatea Internetului înca din 2008. Pe măsură ce dezbaterea a evoluat, am văzut din ce în ce mai multe încălcări ale principiului de neutralitate a Internetului. Atunci când autoritatea de reglementare a comunicațiilor din Statele Unite ale Americii, FCC (Federal Communications Commission), a dat primul ordin pentru protecția Internetului fix împotriva unor forme de discriminare, acesta a fost un mare succes pentru neutralitatea Internetului. Ulterior, [ alte țări au adoptat legislație sau reglementări create pentru protecția neutralității Internetului](https://www.thisisnetneutrality.org/#map). Asta s-a întâmplat deja în, de exemplu, Chile, Olanda, Slovenia, India și Canada.
 
-In the European Union the debate progressed very slowly. We had to wait until 11 September 2013 to have a proposal for having a European law on net neutrality. This proposal was made by the European Commission.
+În Uniunea Europeană dezbaterea a progresat foarte lent. A trebuit să așteptăm până pe 11 Septembrie 2013 pentru a avea o propunere pentru o lege europeană privind neutralitatea Internetului. Această propunere a fost făcuta de Comisia Europeană
 
-The 2013 proposal contained several problematic loopholes that would have allowed Internet providers to circumvent net neutrality. For instance, through a provision on "specialised services", ISPs  would have been allowed to offer discriminatory prioritised access. The proposal would also have allowed for discriminatory blocking of websites, applications, and content — a threat to the rule of law and freedom of expression.
+Propunerea din 2013 conținea câteva portițe problematice care ar fi permis furnizorilor de servicii Internet să ocolească neutralitatea Internetului. De exemplu, printr-o prevedere privind "serviciile specializate", furnizorii de servicii Internet ar fi avut dreptul sa ofere servicii de acces la Internet prioritizate în mod discriminatoriu.  Propunerea ar fi permis și blocatea în mod discriminatoriu a site-urilor web, a aplicațiilor și a conținutului - o amenințare la adresa statului de drept și a libertății de exprimare.
 
-Fortunately, the European Parliament worked hard to close these loopholes and voted in favour of clear and binding rules for net neutrality on 3 April 3rd of 2014. Although things looked grim at first, your efforts with SaveTheInternet helped the Parliament adopt a text with strong net neutrality safeguards. This vote was applauded by millions of people around the world.
+Din fericire, Parlamentul European a muncit din greu pentru a închide aceste portițe și a votat în favoarea adoptării de reguli clare și puternice în beneficiul neutralității Internetului pe 3 Aprilie 2014. Deși situația părea fără speranță, eforturile tale alături de SaveTheInternet au fost de ajutor pentru a convinge Parlamentul să adopte un text cu protecții puternice pentru neutralitatea Internetului. Acest vot a fost apreciat de milioane de oameni de peste tot.
 
-After this victory, the EU Member States gathered in the Council and progressed slowly, taking over a year to come up with a joint position. They agreed on a new text that re-introduced loopholes and created new ones. If adopted, the Council's text would have created paid fast-lanes; allowed price discrimination in the EU, and authorised illegal and arbitrary blocking of lawful content.
+După acestă victorie, Statele Membre ale UE s-au reunit în cadrul Consiliului European și lucrurile au înaintat lent, durând mai mult de un an până s-a ajuns la o poziție comună, Acestea s-au pus de acord asupra unui text nou care a reintrodus porțele din textul original și a creat unele noi. Dacă ar fi fost adoptat, textul Comisiei ar fi creat benzi rapide contra cost; ar fi permis discriminarea în funcție de preț în UE și ar fi autorizat blocarea ilegală și arbitrară a conținutului legal.
 
-In order to advance the talks and undermine the Parliament's position, the three institutions began "informal" negotiations within the so called ["trilogue" process](https://edri.org/files/NN_process_infographics.pdf). In a late night session around 2am, a political agreement was reached between the three institutions. This text contains strong principles to deliver net neutrality in Europe. However, certain provisions of the Regulation are not clear and could be abused (which was better than the Commission's initial proposal but worse than the Parliament's initial position). This may lead to loopholes that would allow discrimination on the Internet. Amendments in the 2nd reading vote in the European Parliament tried to bring clarity. However, the Regulation also deals with the elimination of the roaming charges, which, together with the fact that an absolute majority of all Parliamentarians was needed to change the agreed text, none of the amendments were adopted. In other words, the European Parliament decided that the regulators should be the ones deciding on the uncertainties of the text. 
+Pentru a înainta cu discuțiile și pentru a submina poziția Parlamentului, cele trei instituții au început o serie de negocieri "neoficiale" în cadrul așa-zisului ["trialog"](https://edri.org/files/NN_process_infographics.pdf). Într-o sesiune târzie, pe la ora 2AM, s-a ajuns la o înțelegere politică între cele trei instituții. Acest text conține principii solide pentru neutralitatea Internetului în Europa. Cu toate acestea, aunmite prevederi ale Regulamentului nu sunt clare și ar putea fi abuzate (ceea ce este oricum mai bine decât în forma inițială a Comisiei dar mai rău decât în forma votată inițial de Parlament). Asta poate duce la portițe care pot permite discriminarea în privința accesului la Internet. O serie de amendamente la votul pentru a 2-a citire din Parlament au încercat să aduca mai multa claritate. Cu toate acestea, Regulamentul votat privea si eliminarea taxelor de roaming, ceea ce, împreună cu faptul că era nevoie de o majoritate absolută pentru schimbarea textului, a dus la respingerea tuturor amendamentelor propuse. Cu alte cuvinte, Parlamentrul European a decis că autoritațile însărcinate cu reglementarea comunicațiile trebuie să fie cele care să decidă asupra incertitudinilor textului adoptat. 
 
 
 <a name="who-is-involved-in-the-debate-in-europe"></a>
-## Who is involved in the debate in Europe?
+## Cine este implicat în dezbaterea acesta în Europa?
 
-Right now, the regulators are being heavily lobbied by the telecom industries that want to keep and expand their discriminatory business models; and equipment manufacturers, which want to sell more network equipment that carry out the surveillance of data traffic that makes this possible.
+În momentul de față, se face un lobby intens la autoritările de reglementare a comunicatiilor de către industria de telecom care dorește să-si păstreze și să-și extindă modelele de business discriminatorii și de către producătorii de echipamente care vor să vândă mai multe echipamente de supraveghere a traficului de date care sunt necesare pentru discriminarea traficului.
 
-On the pro-net neutrality side, you have mostly civil society and consumer organisations as well as start-ups, public broadcasters, libraries and universities. 
+De partea neutralității Internetului se află, în mare parte, organizații din societatea civila și organizații petru protecția consumatorilor, dar și startup-uri, emițători publici, biblioteci și universități.
 
-But the deciding factor in most net neutrality debates is the general public, **you, in other words**. If enough people engage in the debate, we can outnumber anti-net neutrality lobby, we can make the good arguments heard and win.
+Dar factorul decisiv în dezbaterea privind neutralitatea Internetului va fi publicul larg, **tu, cu alte cuvinte**. Dacă se implică suficient de multă lume, putem fi mai puternici decât lobby-ul împotriva neutralității Internetului, putem face auzite argumentele corecte și putem câștiga.
 
 
 <a name="who-is-behind-savetheinterneteu"></a>
-## Who is behind SaveTheInternet.eu?
+## Cine este în spatele SaveTheInternet.eu?
 
-SaveTheInternet is the joint campaign of 12 European NGOs that work to protect civil liberties on the Internet. This campaign was built to connect people with policy makers in the preparation of the EU Regulation on net neutrality. This campaign was launched at the 30c3 conference in December 2012 and has been updated ever since to follow the legislative and regulatory process.
+SaveTheInternet este o campanie comună a 12 ONG-uri Europene care se ocupa cu protecția libertăților civile pe Internet. Această campanie a fost creată pentru a pune în legatura cetățenii cu factorii de decizie în vederea pregătirii Regulamentului UE pentru neutralitatea Internetului. Această campanie a fost lansata la conferința 30c3, în Decembrie 2012 și a fost actualizată în concordanță cu ultimele evenimente pe parcusul întregului proces legislativ și de reglementare.
 
-If you are part of an organisation and want to become a supporter or help spread the word, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
+Dacă faci parte dintr-o organizație și dorești să susții acestă campanie sau dorești să o publicizezi, contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu).
 
 
 
-# SPECIALISED SERVICES
+# Servicii Specializate
 
 <a name="what-are-specialised-services"></a>
-## What are specialised services?
+## Ce sunt serviciile specializate?
 
-A specialised service is any service provided over the Internet access connection that is given additional quality by the Internet access provider. Under the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), any such optimisation must be objectively necessary for the electronic service being accessed and not simply granting priority to the service. The access provider must also ensure that there is enough capacity on the network so that the quality of Internet access is not undermined. This necessity should be verified by the national telecommunications regulatory authority. In short, a "specialised service" cannot be a discriminatory "fast lane".
+Un serviciu specializat este orice serviciu care este furnizat prin intermediul unei conexiuni de acces la Internet și căreia i-au fost date anumite proprietăți speciale de către furnizorul de servicii Internet. Conform [Regulamentului](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), orice astfel de optimizare trebuie să fie necesară în mod obiectiv pentru funcționarea serviciului accesat, nu doar o mărire a priorității accesului la respectivul serviciu. Furnizorul de acces trebuie, de asemenea, să se asigură ca rețeaua sa are capaciatea necesară astfel încât calitatea serviciilor de acces la Internet nu este subminată de către existența serviciului specializat. Această necestiate ar trebui să fie verificată de autoritățile naționale de reglementare în telecomunicații. Pe scurt, un "serviciu specializat" nu poate fi o "bandă rapidă" în mod discreționar.
 
-Real specialised services have nothing to do with the Internet. They are services that may use the same technology and sometimes even the same physical architecture, but they are not part of the global Internet because they require a level of quality which could not be offered by the Internet. 
+Servicii specializate adevărate nu ar trebui să aibă nimic de a face cu Internetul. Acestea sunt servicii care poate că folosesc aceiași tehnologie și, uneori, chiar aceiași infrastructura fizică, dar nu fac parte din Internetul global pentru că au nevoie de un nivel de calitate care nu poate fi obtinut pe Internet.
 
 
 <a name="what-are-examples-of-services-that-are-not-specialised-services"></a>
-## What are examples of services that are not specialised services?
+## Care sunt exemple de servicii care nu sunt servicii specializate?
 
-Specialised services are not services which could be provided on the Internet. The problem to be avoided is allowing existing online services to be reclassified as specialised services. Under such a scenario, a company with enough money could buy priority for their services, which would give them an unfair advantage ahead everyone else &#8211; reducing competition, innovation and choice.. 
+Serviciile specializate nu sunt servicii care pot fi furnizate prin Internet. Problema care trebuie evitată este permiterea unor servicii online să fie clasificate ca servicii specializate. Intr-un astfel de scenariu, o companie cu suficiente resurse financiare poate cumpăra un tratament preferențial pentru serviciile proprii, obținând astfel un avantaj nedrept asupra tuturor competitorilor, reducând astfel competiția, inovarea și alternativele. 
 
 
 <a name="what-safeguards-are-in-eu-law-to-deal-with-specialised-services"></a>
-## What safeguards are in EU law to deal with specialised services?
+## Ce măsuri de siguranță există în legislația UE pentru a gestiona serviciile specializate?
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) establishes five safeguards for the provision of specialised services:
+[Regulamentul](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) stabilește cinci măsuri de siguranță pentru furnizarea serviciilor specializate:
 
-1.        Specialised services cannot be used to circumvent provisions regarding traffic management measures. ISPs cannot give priority to specialised services over comparable content, applications or services available via Internet Access Services; 
+1.        Serviciile specializate nu pot fi folosite pentru a eluda prevederile referitoare la măsurile de management al traficului. Furnizorii de servicii Internet nu pot prioritiza serviciile speciale în fața unui conțiunt similar, unor aplicații sau servicii similare care sunt disponibile prin intermediul serviciilor de acces la Internet;
 
-2.        Specialised services have to be optimised to assure specific quality of service requirements of the content, application or service, which are necessary for key functionalities of the content, application or service in question; 
+2.        Serviciile specializate trebuie să fie optimizate pentru a îndeplini cerințe specifice de calitate a serviciului în cazul conținurului, aplicațiilor sau serviciilor, și care sunt absolut necesare pentru funcționalități cheie ale conținutului, aplicației sau serviciului respectiv;
 
-3.        Specialised services shall not be usable or offered as a replacement for Internet Access Services; 
+3.        Serviciile specializate nu vor funcționa sau fi oferite ca un înlocuitor pentru serviciile de acces la Internet;
 
-4.        Specialised services can only be offered if sufficient network capacity is available to offer them in addition to any Internet Access Service provided; 
+4.        Serviciile specializate pot fi oferite doar dacă există suficientă capacitate în rețea astfel încât acestea să poată fi oferite pe lângă serviciile de acces la Internet;
 
-5.        Specialised services cannot be provided in detriment of the availability or general quality of Internet Access Services. 
+5.        Serviciile specializate nu pot fi furnizate în detrimentul disponibilității sau calității serviciilor de acces la Internet.
 
 
 <a name="what-is-required-to-strengthen-the-safeguards-on-specialised-services-and-why-is-this-important"></a>
-## What is required to strengthen the safeguards on specialised services and why is this important?
+## De ce e nevoie pentru a întări măsurile de siguranță vis-a-vis de serciile specializate și de ce este acesta un lucru important?
 
-New specialised services have to be tested against all five safeguards by the regulator before they can be introduced into the market. If they are only tested after somebody complains, it can sometimes take years before discriminatory products that are later found to be illegal are removed. It is a common strategy of anti-competitive telcoms operators to use the slowness and expense of courts and regulators to kill off innovative competitors. 
+Noile servicii specializate trebuie să fie verificate pentru fiecare dintre cele cinci măsuri de siguranță de către autoritatea de regelementare înainte de a fi introduse pe piață. Dacă sunt testate doar ca urmare a unei plângeri, uneori va dura ani înainte să fie scoase de pe piața produse discriminatoare care mai târziu se dovedesc ilegale. Folosirea vitezei mici a serviciilor de acces și a cheltuielilor de judecată prohibitive este o strategie de bază a operatorilor de telecomunicații anti-competitivi pentru a înlătura competitori inovativi.
 
-The optimisation of a specialised service has to be objectively necessary for the functionality of the service and not just a convenient advantage over competitors. If a comparable service exists in the open Internet, then a specialised service should not be granted.
+Optimizarea serviciilor specializate trebuie să fie necesară din punct de vedere obiectiv pentru funcționalitatea serviciului, nu doar un avantaj convenabil asupra competitorilor. Dacă un serviciu comparabil există pe Internet, atunc un serviciu specializat nu poate fi permis.
 
 
 
-# Traffic Management
+# Managementul Traficului
 
 <a name="what-is-traffic-management"></a>
-## What is traffic management?
+## Ce este managementul traficului?
 
-Traffic management allows ISPs to manage data traffic on their networks. To do so, ISPs can give priority to certain communications and slow down some others. Under the Regulation, this practice is allowed if it is reasonable, transparent, non discriminatory and proportionate. Traffic management must be temporary and, therefore, not a standard part of network configuration. Also, as general rule, traffic management shall treat all applications equally and it can differentiate among different categories of traffic only under in very limited circumstances.
+Managementul traficului permite furnizorilor de servicii Internet să administreze traficul de date în rețelele proprii. Pentru a face asta, furnizorii pot prioritiza anumite tipuri de comunicații și încetini altele. Conform Regulamentului, acestă practică este permisă dacă este rezonabilă, transparentă, non-discriminatoare și proporțională. Managementul traficului trebuie sa fie temporar și, din acest motiv, nu este o parte standard a configurației rețelei. De asemenea, ca o regulă generală, managementul traficului ca trata toate aplicațiile în mod egal și poate diferenția între diverse categorii de trafic doar în circumstanțe extrem de limitate.
 
 
 <a name="why-should-i-care-about-traffic-management"></a>
-## Why should I care about traffic management?
+## De ce mi-ar păsa de managementul traficului?
 
-Traffic management affects your everyday Internet experience. When your Netflix video is endlessly buffering, your Internet-Telephony call is breaking off or an online game is unplayable, traffic management by your Internet provider can be the cause. 
+Managementul traficului afecteză experiența ta de zi cu zi pe Internet. Când video-ul de pe Netflix se încarcă la nesfârșit, apelul de telefonie prin Internet se tot întrerupe sau când jocul online este imposibil de jucat din cauza lag-ului, managementul traficului făcut de furnizorul tău de acces la Internet poate fi cauza.
 
-If the EU rules are abused, the online services you want to use could be slowed down to the level that they become unusable while other competing services promoted by your own Internet provider could still work properly. 
+Dacă regulile UE sunt abuzate, serviciile online pe care dorești să le folosești ar putea fi încetinite atât de mult încât să devină imposibil de folosit, în timp ce serviciile companiilor competitoare sunt promovate de furnizorul tău de servicii Internet și ar putea să meargă în continuare foarte bine.
 
-Traffic management should never interfere with your freedom as an end-user or online service provider. The role of an Internet provider is to manage the network for all services to the best of his its abilities, but not to make decisions about the importance, integrity and legality of the Internet content, services or applications you want to access. 
+Managementul traficului nu ar trebui niciodată să interfereze cu libertatea ta ca utilizator final sau ca furnizor de servicii online. Rolul furnizorului de servicii Internet este să își administreze rețeaua cât de bine poate în beneficiul tuturor serviciilor disponibile, nu să ia decizii în legătură cu importanța, integritatea sau legalitatea conținutului, serviciilor sau aplicațiilor pe care vrei să le accesezi prin Internet.
 
 
 <a name="shouldnt-internet-providers-be-allowed-to-manage-their-networks"></a>
-## Shouldn't internet providers be allowed to manage their networks?
+## Nu ar trebui ca furnizorii de servicii Internet să aibă voie să-și administreze rețelele proprii?
 
-Of course internet providers should be allowed to manage their networks. However, this needs to be done in a way that makes no distinction on the basis of the content, application and services being used by you or other internet users. [This is feasible](https://tools.ietf.org/html/rfc6057) and supported by [detailed analysis](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
+Evident că furnizorii de servicii Internet ar trebui să aibă voie să-și administreze propriile rețele. Cu toate asta, aceasta administrare trebuie făcută astfel încât să nu se facă distincții pe baza conținutului, aplicațiilor și serviciilor folosite de tine sau de utilizatorii tăi. [Acesta este un lucru fezabil](https://tools.ietf.org/html/rfc6057) și sprijinit de [o analiză detaliată](http://apps.fcc.gov/ecfs/document/view?id=60001032169).
 
-The alternative is for the Internet provider to classify data packages based on criteria that it establishes, leading to some applications being slowed down and others speeded up. This can be on the basis of technical requiements of the service (time sensitivity, jitter sensitivity) or the functionality the service offers to the user (telephony, video-streaming, music-streaming, gaming, etc.). This second approach is called class-based traffic management. As encrypted data traffic cannot be classified, one of the risks of this approach is that such data is automatically put in a "slow lane" (unless it come from a big provider, where the type of data can be guessed). Disincentivising encryption is clearly bad for privacy, while slowing down encrypted data from small providers is anti-competitive.
+Alternativa este ca furnizorul de servicii Internet să clasifice pachetele de date pe baza unor criterii proprii, aceasta ducând la încetinirea unor aplicații și la prioritizarea altora. Asta se poate face pe baza unor cerințe tehnice ale serviciilor (sensibilitatea la diverse tipuri de întârzieri), sau pe baza funcționalității pe care serviciul îl oferă utilizatorilor (telefonie, streaming video, streaming audio, jocuri etc.). Această a doua abordare se cheamă management al traficului bazat pe clase. Cum datele criptate nu pot di clasificate, unul dintre riscurile acestei abordări este ca astfel de date să fie catalogate și trimise automat pe "banda lentă" (cu excepția cazului când respectivele date vin de la un furnizor mare, unde tipul de date poate fi presupus în mod implicit). Descurajarea criptării este, în mod evident, un lucru rău pentru protecția datelor personale, iar încetinirea traficului de date criptat venind de la furnizori de servicii mici este anti-competitivă.
 
-We can therefore say that class-based traffic management measures are: 
+Așadar, putem spune ca măsurile de management al traficului bazat pe clase sunt: 
 
--        Less transparent than application agnostic measure, because the end-user doesn’t know how his particular content and the services he uses will be classified;
+-        Mai puțin transparente decât cele care nu țin de tipul de aplicație pentru că utilizatorul final nu știe cum vor fi clasificate conținutul și serviciile sale;
 
--        More Discriminatory then application agnostic measures, because they risk misclassifying applications, to discriminate against encrypted traffic and allow for anti-competitive behavior;
+-        Mai discriminatoare cele care nu țin de tipul de aplicație pentru că există riscul clasificării greșite a aplicațiilor, a discriminării împotriva traficului criptat și permite comportamente anti-competitive;
 
--        Less proportionate then application agnostic measures, because it is always less intrusive and better for user-choice;
+-        Mai puțin proporționale decât cele care nu țin de tipul de aplicație pentru că este întotdeauna mai puțin intrusiv și mai benefic pentru bogăția de opțiuni a utilizatorului final.
 
 
 <a name="what-is-the-goal-of-savetheinterneteu-when-it-comes-to-traffic-management"></a>
-## What is the goal of SaveTheInternet.eu when it comes to traffic management?
+## Care este obiectivul SaveTheInternet.eu când vine vorba de managementul traficurlui?
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) gives a clear threefold hierarchy on traffic management that has to be enshrined in clear and binding rules [see Article 3(3) subparagraphs 1 to 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). The Internet provider always has to try to solve a problem in its network first with application-agnostic measures, i.e. measures that do not depend on the specific characteristics of content, applications, services or devices . If application-agnostic measures are exhausted and the problem could not be resolved in this way, Internet providers are permitted to resort to class-based measures.
+[Regulamentul](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) furnizează o ierarhie clară, pe trei nivele, a măsurilor de management al traficului care trebuie să fie transpusă în reguli clare și stricte [Vezi Articolul 3(3) subparagrafele 1 la 3](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1). Furnizorul de servicii Internet trebuie să incerce să rezolve problemele apărute în rețeaua sa mai întâi folosind metode care nu țin de tipul de aplicație, adică metode care nu depind de caracteristicile specifice ale conținutului, aplicațiilor, serviciilor sau dispozitivelor. Dacă abordarea care nu ține de tipul de aplicație nu dă rezultate, furnizorii au voie să recurga la metode bazate pe clasificarea tipurilor de trafic.
 
-Traffic management is necessary to resolve congestion and ensure the integrity and security of the network. But, like surveillance, traffic management should only use the least intrusive measures available, only for a specific purpose and a for limited time when it is genuinely necessary to achieve a legitimate goal.
+Managementul traficului este necesar pentru a rezolva congestia și pentru a asigura integritatea și securitatea rețelei. Totuși, ca și în cazul supravegherii, managementul traficului ar trebui să folosească metodele cele mai puțin intrusive, doar pentru un scop specific și doar pentru o perioadă limitată de timp atunci când este absolut necesar pentru îndeplinirea unui scop legitim.
 
 
 <a name="when-can-a-provider-start-managing-its-network"></a>
-## When can a provider start managing its network?
+## Când poate un furnizor de servicii Internet să înceapă să-și administreze rețeaua?
 
-According to the [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), Internet providers can either start to manage their network in an actual case of congestion or in cases where they are seeking to mitigate congestion that is about to materialise. This second option should be clarified by the regulators to avoid a slippery slope situation where the network is "managed" all the time, even when there is no actual need for it.
+Conform [Regulamentului](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120), furnizorii de servicii Internet pot ori să își adimistreze rețelele când rețeaua este deja congestionată ori pentru a diminua efectele unei congestii care este pe cale de a apărea. Această a doua opțiune ar trebui clarificată de către autoritățile de reglementare pentru a evita abuzurile care pot apărea dacă furnizorii "administrează" rețeau în continuu sub pretextul evitării congestiei, chiar și atunci când nu este cazul.
 
-We argue that this second option should only be allowed in cases where there are other indicators besides the amount of traffic flowing through any given network hub (like the amount of subscribers connected to one network cell). There always needs to be a concrete and actual need for traffic management. 
+Susținem că această a doua optiune ar trebui permisă doar în situațiile în care există și alți indicatori în afara de volumul de trafic din rețea (cum ar fi numărul de abonați conectați la o celulă a unei rețele). Terbuie ca întotdeauna să existe o nevoie concreta pentru managementul traficului.
 
 
 
-# ZERO RATING
+# Zero Rating
 
 <a name="what-is-zero-rating"></a>
-## What is zero rating?
+## Ce este zero rating?
 
-Zero rating is a commercial practice, for which data downloaded from certain applications or services is not counted towards a subscriber's monthly download limit. Zero rating treats different traffic in different ways, in order for some to be offered at one price and some to be offered at a different price. Although technically different from classic net neutrality violations, it is identical, practically speaking, as it allows the Internet access provider to influence what applications and services are used and which are not.
+Zero rating  este o practică comercială care permite ca datele descărcate de anumite aplicații sau servicii să nu fie contorizate la limita lunară de trafic a abonatului. Zero rating-ul tratează tipuri diferite de trafic în mod diferit, astfe încât pentru unii să fie oferit la un preți iar pentru alții să fie oferit la alt preț. Deși diferit de formele clasice de încălcare a neutralității Internetului, este tot o încălcare pentru că, din punct de verdere practic, permite furnizorului de acces la Internet să influențeze care aplicații și servicii sunt folosite și care nu.
 
 
 <a name="why-is-zero-rating-a-problem"></a>
-## Why is zero rating a problem?
+## De ce este zero rating o problemă?
 
-With this practice, your Internet provider can exercise control over the services that you use or will use. Every competitor to a zero-rated application or service (mainly start-ups and SMEs) is at a great disadvantage because you have to pay extra to be able to use the application or service unhindered.
+Cu această practică, furnizorul tău de servicii Internet poate exercita un control asupra ce servicii folosești sau vei folosi. Orice competitor al unei aplicații sau serviciu cu zero rating (în principal startup-uri și IMM-uri) au un mare dezavantaj pentru că trebuie să plătești suplimentar pentru a putea să folosești aplicația sau serviciul.
 
-Zero rating is a major reason for low data caps (data caps are data upload or download limits). Internet providers want you to use their own online services or their partner services. If providers are allowed to exempt these selected services from your data cap, they have a reason to keep this cap intact and relatively low so their competitive advantage stays strong. Without zero rating, these companies could be offering you more data volume that you can use and you would be able to freely decide how to use it.  There are well documented cases [in the Netherlands](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) and in [Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) where, thanks to strong net neutrality laws prohibiting zero rating, mobile operators doubled the data caps of their users.
+Zero rating este motivul principal pentru limitele de trafic scăzute. Furnizorii de servicii Internet vor să folosești serviciile lor online sau pe cele ale partenerilor lor. Dacă furnizorii au voie să își scutească aceste servicii de la a afecta limitele de trafic, atunci vor avea o motivație să mențină aceste limite la valorile curente (și mici) astfel încât avantajul lor competitiv să rămână puternic. Fără zero rating aceste companii ar putea oferi limite de trafic mai mari iar tu ai putea decide cum să folosești traficul disponibil. Există cazuri bine documentate [în Olanda](http://dfmonitor.eu/downloads/Banning_zerorating_leads_to_higher_volume_caps_06022015.pdf) și în [Slovenia](http://blog.caf.si/2015/02/another-win-for-net-neutrality-advocates-in-slovenia-akos-issues-new-decisions-limiting-zero-rating.html) unde, grație legislației solide pentru neutralitatea Internetului care interzice zero rating, operatorii de telefonie mobilă au dublat limitele de trafic ale utilizatorilor.
 
 
 <a name="am-i-really-getting-something-for-free-when-i-use-a-zero-rating-programme"></a>
-## Am I really getting something for free when I use a zero rating programme?
+## Chiar primesc ceva gratis când folosesc o ofertă zero rating?
 
-At first sight, it looks as if you’d get something for free. Contrary to appearances, your freedom of choice in the Internet is restricted and your Internet provider establishes itself as a gatekeeper. In the case of Facebook's Free Basics programme, for example, why should Facebook decide which services and apps you can use? What is the economic incentive for Facebook to offer this? Is this really for free? The answer is no. Nothing is for free. Zero rating has implications for your security, privacy and for a competitive market.
+La prima vedere, pare că ai primi ceva gratis. Conrar aparențelor, libertatea ta de alegere pe Internet este restricționată iar furnizorul tău de servicii Internet devine un portar. In cazul programului Free Basics de la Facebook, de exemplu, de ce ar trebui să decidă Facebook ce servicii și aplicatii poți folosi? Care este stimulentul economic pentru Facebook să ofere asta? Este cu adevărat gratis? Răspunsul este nu. Nimic nu e gratis. Zero rating are implicații pentru securitatea ta, pentru datele tale personale și pentru o piață liberă.
 
 
 <a name="how-can-zero-rating-affect-providers-of-online-services-and-the-diversity-of-the-internet-ecosystem"></a>
-## How can zero rating affect providers of online services and the diversity of the Internet ecosystem?
+## Cum poate zero rating-ul să afecteze furnizorii de servicii online și diversitatea ecostistemului Internetului?
 
-Zero rating agreements in Europe are almost always with big Internet companies like Facebook and Spotify. These deals are often mutually exclusive, which means that the content provider is binding itself to one operator in a country and vice-versa. 
+Înțelegerile de tip zero rating în Europa sunt aproape mereu cu companii mari, cum ar fi Facebook sau Spotify. Aceste înțelegeri sunt, de obicei, mutual exclusive, ceea ce înseamnă că furnizorul de conținut se leagă de un unic operator din țara respectivă, și vice-versa.
 
-Zero rating is bad for user choice because it is devastating for the online economy. It only helps big companies to cement their market position and kill off their competition. We already see this in the music streaming market, for example, where the freedom of choice for consumers has been greatly reduced by such exclusive zero rating offers.
+Zero rating-ul este rău pentru opțiunile utilizatorului și devastator pentru economia online. Acesta ajuta doar ca companiile mari să-și întărească poziția pe piață și să elimine competiția. Vedem asta deja pe piața de streaming audio, de exemplu, unde liberatea de alegere pentru consumatori a fost redusă în mod drastic în urma unor astfel de oferte exclusive de zero rating.
 
-Instead of simply selling Internet access, Internet providers increasingly want to sell you directly online content, applications and services provided either by them or their partners. By inserting themselves as middle-men, Internet providers  want to get paid twice. First, you pay them for your Internet connection. Second, content, services and apps providers pay them for getting access to their customer base, which includes you. 
+În loc să vândă servicii de acces la Internet, din ce în ce mai multi furnizorii de servicii Internet vor din ce în ce mai mult să îți vândă direct conținut online, aplicații și servicii furnizate ori de ei ori de partenerii lor. Insinuându-se drept intermediari, furnizorii de servicii Internet vor să fie plătiți de două ori. Prima dată îi plătești tu pentru serviciile de acces la Internet. A doua oară, furnizorii de conținut, servicii și aplicații îi plătesc pentru accesul la baza lor de clienți, care te include și pe tine.
 
 <a name="what-is-the-goal-of-the-savetheinterneteu-campaign-when-it-comes-to-zero-rating"></a>
-## What is the goal of the SaveTheInternet.eu campaign when it comes to zero-rating?
+## Care este obiectivul SaveTheInternet.eu când vine vorba de zero rating?
 
-Zero rating is a clear violation of the net neutrality rules and therefore needs to be prohibited. This practice is anti-competitive and violates your freedom to use and access the applications, services and content you want and the freedom of content and application providers to make their offer in all networks without restriction (as required by Article 3(1) of the [EU Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). The EU Regulation also bans Internet and content providers from offering services that limit your rights as an end-user or as a content provider [(cf. Article 3(2) of the Regulation)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
+Zero rating-ul este o încălcare clară a regulilor de neutralitate a Internetului și, în consecință, trebuie interzis. Acestă practică este anti-competitivă și încalcă libertatea ta de a utiliza și accesa aplicațiile, serviciile și conținutul dorit și libertatea furnizorilor de conținut și de aplicații de a-și oferi produsele în toate rețelele fără a fi restricționați (așa cum este stipulat în Articolul 3(1) al [Regulamentului UE](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) ). Regulamentul UE mai interzice și furnizorilor Internet și de conținut să ofere servicii care îți limiteaza drepturile ca utilizator final sau ca furnizor de conținut [(cf. Article 3(2) al Regulamentului)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120#d1e445-1-1).
 
-If data caps are exceeded and certain zero rated services are still accessible while the rest of the Internet is blocked or throttled, this is a clear violation of other provisions of the Regulation delivering net neutrality. 
+Dacă limitele de trafic sunt depășite și anumite servicii cu zero rating sunt accesibile în continuare în timp ce restul Internetului nu mai este accesibil sau este încetinit, aceasta este o încălcare evidentă a prevederilor Regulamentului.
 
 
 
-# TRANSPARENCY
+# Transparență
 
 <a name="what-benefits-can-we-expect-with-the-new-net-neutrality-rules"></a>
-## What benefits can we expect with the new net neutrality rules?
+## Care sunt beneficiile la care ne putem aștepta de pe urma noului regulament privitor la neutralitatea Internetului?
 -       
-There are many benefits that we have under the [EU Regulation on net neutrality](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120). In terms of transparency, one of them is the requirement for Internet providers to state in their contracts what the minimum, average and maximum bandwidth of any Internet access connection is, instead of just the theoretical maximum. The Committee of the European telecom regulators (BEREC) will have to clarify how these values are calculated and what should happen if a connection is shared between more than one user.
+[Regulamentul privind neutralitatea Internetului](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) aduce multe beneficii. Din punctul de vedere al transparenței, unul dintre ele este cerința ca furnizorii de servicii Internet să spună în contractele pe care le încheie cu clienții care este lărimea de bandă minimă, medie și maximă a conexiunii furnizate, în locul maximului teoretic. Comitetul autoritărilor de reglementare a comunicațiilor electronice din Europa (BEREC) va trebui să clarifice cum sunt calculate aceste valori și ce ar trebui să se întâmple dacă o conexiune este folosită în comun de mai mult de un utilizator.
 
 
 <a name="what-type-of-transparency-can-be-expected-with-the-new-rules"></a>
-## What type of transparency can be expected with the new rules?
+## La ce fel de transparență ne putem aștepta cu noile reguli?
 
-The [Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) requires Internet providers to provide information about all traffic management measures that affect a user's Internet access. Regulators are now seeking for input on what this means in practice.
+[Regulamentul](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120) cere ca furnizorii de servicii Internet să furnizeze detalii despre măsurile de management al traficului care afectează accesul la Internet al utilizatorului. Autoritățile de reglementare stabilesc chiar acum ce înseamnă asta în practică.
 
 
 
-# OTHER
+# Altele
 
 <a name="how-is-net-neutrality-dealt-with-in-other-parts-of-the-world"></a>
-## How is net neutrality dealt with in other parts of the world?
+## Cum este neutralitatea Internetului abordată în alte părți ale lumii?
 
-There are strong net neutrality rules in the USA, Canada, and Chile. The most recent example is India, which has recently adopted strong rules on zero-rating. For more detailed approach visit [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
+Reguli puternice pentru neutralitatea Internetului există în Statele Unite ale Americii, Canada și Chile. Cel mai recent exemplu este India, unde recent au fost adoptate reguli puternice împotriva zero rating-ului. Pentru mai multe detalii, vezi [This Is Net Neutrality](https://www.thisisnetneutrality.org/#map) 
 
-Other countries are running a SaveTheInternet campaign.
+Alte țări unde se derulează o campanie SaveTheInternet.
 
-These are some examples:
+Câteva exemple:
 
--        [USA](http://www.savetheinternet.com/sti-home)
+-        [Statele Unite ale Americii](http://www.savetheinternet.com/sti-home)
 
 -        [India](http://www.savetheinternet.in/)
 
 
 <a name="how-can-i-help-you"></a>
-## How can I help you?
+## Cum pot ajuta?
 
-You can help SaveTheInternet.eu in many ways:
+Poți ajuta SaveTheInternet.eu în multe feluri:
 
-<i class="fa fa-long-arrow-right"></i>        Spread the word! Tell your friends this campaign, about net neutrality and about why it is important to act now. Only when many individuals voices speak out,  will we be able to protect our online rights and freedoms.
+<i class="fa fa-long-arrow-right"></i>        Dă sfoară-n-țară! Spune prietenilor despre această campanie, despre neutralitatea Internetului și despre de ce este important să treci la acțiune acum. Doar când mulți iau atitudine vom putea să ne protejăm drepturile și libertățile online.
 
-<i class="fa fa-long-arrow-right"></i>        Translate the website into your language! You can do that via [Save The Internet on Github](https://github.com/netzfreiheit/savetheinternet) 
+<i class="fa fa-long-arrow-right"></i>        Tradu acest site în limba ta! Poți face asta la [Save The Internet pe Github](https://github.com/netzfreiheit/savetheinternet) 
 
-<i class="fa fa-long-arrow-right"></i>        Join us! If you are part of an organisation and would like to join SaveTheInternet.eu, please contact us at [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+<i class="fa fa-long-arrow-right"></i>        Alătură-te noua! Dacă faci parte dintr-o organizație și vrei să te alături SaveTheInternet.eu, contacteză-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
 
-<i class="fa fa-long-arrow-right"></i>        Report violations of net neutrality through [Respect My Net](https://respectmynet.eu/)
+<i class="fa fa-long-arrow-right"></i>        Raportează încălcări ale neutralității Internetului la [Respect My Net](https://respectmynet.eu/)
 
-<i class="fa fa-long-arrow-right"></i>        Donate! If you want to donate to the organisations behind SaveTheInternet, please click [ here ] 
+<i class="fa fa-long-arrow-right"></i>        Donează! Dacă vrei să donezi organizațiilor din spatele campaniei SaveTheInternet, fă click [ aici ] 
 
-Do you have any other cool and creative ideas? Please, reach out to us via [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
+Ai alte idei creative? Contactează-ne la [info@savetheinternet.eu](mailto:info@savetheinternet.eu)
