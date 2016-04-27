@@ -1,18 +1,18 @@
 {{ $iframeURL := "https://consultation.savetheinternet.eu/en/" }}
 
-{{ if eq .Site.Params.language "de" }}
-  {{ $iframeURL := "https://consultation.savetheinternet.eu/de/" }}
+{{ if eq .Site.Params.language "ro" }}
+  {{ $iframeURL := "https://consultation.savetheinternet.eu/ro/" }}
 {{ end }}
 
 <section class="home__questions">
   <div class="home__questions__container">
     <div class="home__questions__container__content">
       <header class="home__questions__container__content__header">
-        <h1>Tell your national regulators and BEREC to protect net neutrality</h1>
-        <p>Tell your regulators your opinion on the new net neutrality rules by using the questionnaire tool below. By answering any number of questions in the multiple choice and open questions parts an email will be generated for you. Your email will be submitted by us to the EU Telecom Regulators (BEREC) when the official consultation starts in June 2016.</p>
+        <h1>Spune autorității naționale de reglemenare și BEREC să apere nautralitatea Internetului</h1>
+        <p>Spune autorității tale naționale de reglemenare în telecomunicații opinia ta privind noile reguli pentru neutralitatea Internetului folosind chestionarul de mai jos. Răspunzând la oricâte dintre întrebările din secțiunile de întrebări grilă și de întrebări cu răspuns deschis, va fi generat un email pentru tine. Email-ul tău va fi trimis de noi către autoritatea de reglementare în telecomunicații din UE (BEREC) atunci când va fi lansată consultarea oficială, in Iunie 2016.</p>
       </header>
       <section class="home__questions__container__content__body">
-        <div id="questionnaire-loading-spinner">Loading Questionnaire <i class="fa fa-circle-o-notch fa-spin"></i></div>
+        <div id="questionnaire-loading-spinner">Se Încarcă Chestionarul <i class="fa fa-circle-o-notch fa-spin"></i></div>
         <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="{{ $iframeURL }}" scrolling="no"></iframe>
         <!-- <iframe id="home__questions__container__content__body__iframe" class="home__questions__container__content__body__form" src="/step-1" scrolling="no"></iframe> -->
       </section>

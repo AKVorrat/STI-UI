@@ -4,7 +4,7 @@
   <header class="questions-form__header">
     <div class="questions-form__header__locality">
       <div class="questions-form__header__locality__country">
-        <label for="questions-form__header__locality__country__select">Choose country:</label>
+        <label for="questions-form__header__locality__country__select">Alege țara:</label>
         <select title="––––––" class="selectpicker" id="questions-form__header__locality__country__select" name="questions-form__header__locality__country__select">
           <option data-content="<i class='flag flag-retina flag-at'></i><span class='flag-label'>Austria</span>" value="AT">Austria</option>
           <option data-content="<i class='flag flag-retina flag-de'></i><span class='flag-label'>Germany</span>" value="DE">Germany</option>
@@ -12,10 +12,11 @@
         </select>
       </div>
       <div class="questions-form__header__locality__language">
-        <label for="questions-form__header__locality__language__select">Choose language:</label>
+        <label for="questions-form__header__locality__language__select">Alege Limba:</label>
         <select title="––––––" class="selectpicker" id="questions-form__header__locality__language__select" name="questions-form__header__locality__language__select">
           <option value="EN">English</option>
           <option value="DE">German</option>
+          <option value="RO">Română</option>
         </select>
       </div>
     </div>
@@ -28,7 +29,7 @@
             </div>
             <div class="step-label">
               <i class="fa fa-check-square{{ if eq $stepNumber 1 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
-              <h3>Multiple <br>Choice</h3>
+              <h3>Alegere <br>Multiplă</h3>
             </div>
           </button>
           <div class="triangle-step {{ if eq $stepNumber 1 }}triangle-blue{{ end }}"></div>
@@ -40,7 +41,7 @@
             </div>
             <div class="step-label">
               <i class="fa fa-pencil-square{{ if eq $stepNumber 2 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
-              <h3>Open <br>Questions #1</h3>
+              <h3>Întrebări <br>Deschise #1</h3>
             </div>
           </button>
           <div class="triangle-step {{ if eq $stepNumber 2 }}triangle-black{{ end }}"></div>
@@ -52,7 +53,7 @@
             </div>
             <div class="step-label">
               <i class="fa fa-pencil-square{{ if eq $stepNumber 3 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
-              <h3>Open <br>Questions #2</h3>
+              <h3>Întrebări <br>Deschise #2</h3>
             </div>
           </button>
           <div class="triangle-step {{ if eq $stepNumber 3 }}triangle-blue-sky{{ end }}"></div>
@@ -64,7 +65,7 @@
             </div>
             <div class="step-label">
               <i class="fa fa-envelope{{ if eq $stepNumber 4 }}-o fa-5x{{ else }} fa-3x{{ end }}"></i>
-              <h3>Send<br>Message</h3>
+              <h3>Trimite<br>Mesaj</h3>
             </div>
             <div class="triangle-step {{ if eq $stepNumber 4 }}triangle-gray{{ end }}"></div>
           </button>
