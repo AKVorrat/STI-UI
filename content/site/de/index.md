@@ -10,9 +10,9 @@
 # Save the Internet
 
 {: .title-subtext}
-Europäische Regulierungsbehörden werden in Kürze entscheiden, ob große Telekommunikationsfirmen beeinflussen dürfen, was wir online tun (und nicht tun) können. Europa braucht dringend klare Regeln für Netzneutralität, um unsere Freiheiten und Rechte online zu schützen. Wir haben Zeit bis __Juli__, um Europa bei der Bewahrung des freien Internets zu helfen.
+Diesen Sommer wird in Europa über die Zukunft des Internets entschieden. Große Telekomkonzerne wollen darüber entscheiden, was wir online tun können und was nicht. Um __die Freiheit des Internets zu erhalten__ und unsere Rechte zu schützen, müssen wir alle aktiv werden. 
 <br><br>
-Schließe dich uns an, hilf jetzt mit!
+__Hilf mit, werde jetzt aktiv! __
 
 {{ BEGIN COUNTER }}
 
@@ -25,13 +25,13 @@ Schließe dich uns an, hilf jetzt mit!
 
 {{ BEGIN HOME FIX-NET-NEUTRALITY }}
 
-## Was uns droht:
+## Worum es geht:
 
 {{ BEGIN HOME SPECIALISED-SERVICES }}
 
 ### Spezialdienste
 
-Spezialdienste drohen zu bezahlten Überholspuren für finanzstarke Unternehmen zu werden. Jede andere Website, jede Idee und jedes Startup würde auf die Kriechspur verbannt.
+Spezialdienste drohen zu bezahlten Überholspuren für finanzstarke Unternehmen zu werden. Jede andere Website, jede Idee und jedes Startup wird ausgebremst.
 
 [In den FAQs weiterlesen](faq/#what-are-specialised-services)
 
@@ -41,7 +41,7 @@ Spezialdienste drohen zu bezahlten Überholspuren für finanzstarke Unternehmen 
 
 ### Verkehrsmanagement
 
-Keine Zensur des offenen Internets: Internet-Provider dürfen nicht Hilfssheriffs werden und entscheiden, welche Datenverbindungen wichtig sind und welche Online-Dienste sie eigenmächtig herunterdrosseln.
+Das Internet ist heute so bunt und vielfälltig, weil es alle Daten gleich behandelt. Dieses *best effort* Prinzip soll mit den neuen Regeln komplett abgeschafft werden.
 
 [In den FAQs weiterlesen](faq/#what-is-traffic-management)
 
@@ -51,7 +51,7 @@ Keine Zensur des offenen Internets: Internet-Provider dürfen nicht Hilfssheriff
 
 ### Zero-Rating
 
-Es scheint, als ob du etwas gratis bekommst, aber Zero-Rating macht deinen Anbieter zum Türsteher. Außerdem gibt es ihm einen Grund, dein monatliches Datenvolumen zu senken.
+Es sieht so aus als wäre es gratis, aber in Wirklichkeit verliesrst du deine Wahlfreiheit. Beim Zero-Rating wird dein Internetanbieter zum Türsteher, der mit-entscheiden will, welche Dienste du im Internet nutzt. Das alles gibt ihm einen Grund dein monatliches Datenvolumen künstlich niedrig zu halten. 
 
 [In den FAQs weiterlesen](faq/#what-is-zero-rating)
 
@@ -92,18 +92,18 @@ __[Advanced Questionnaire](https://consultation.savetheinternet.eu/advanced/){: 
 
 {{ BEGIN HOME INFO }}
 {{ ANCHOR INFO }}
-## Die Europäische Union hat 2015 eine Verordnung zur Netzneutralität beschlossen&nsbp;…
+## Was bisher geschah…
 
-[Die EU-Verordnung](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } enthält gute Grundprinzipien, die absichern, dass man sich mit jedem anderen Ort im Internet verbinden kann, ohne dabei benachteiligt zu werden. Leider können einige Teile der Verordnung missbraucht werden, um die Netzneutralität zu untergraben. Die Gesetzgeber haben beschlossen, die Klarstellung der offenen Fragen im Text den Telekommunikationsregulatoren zu überlassen.
+Im Oktober 2015 hat die EU ein [Gesetz](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R2120){: target="_blank" } zur Netzneutralität [beschlossen](https://netzpolitik.org/2016/netzneutralitaet-wie-es-jetzt-weiter-geht/){: target="_blank" }. Leider ist das Gesetz mehrdeutig und kann auf viele verschiedene Arten gelesen werden. Ob wir damit die Prinzipien der Netzneutralität absichern können, wird sich jetzt erst entscheiden. Leider können einige Teile des Gesetzes missbraucht werden, um die Netzneutralität zu untergraben und im Internet zu diskriminieren. Das Gesetz sieht vor, die Klarstellung der offenen Fragen im Text den Telekom-Regulierungsbehörden zu überlassen.
 {{ END HOME INFO }}
 
 
 {{ BEGIN HOME BEREC-1 }}
-Das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation (BEREC) muss bis Ende August 2016 Umsetzungsrichtlinien bereitstellen, um die Unklarheiten in der Verordnung zu präzisieren. Diese Richtlinien werden für das weitere Bestehen der Netzneutralität in Europa maßgebend sein.
+Das Gremium Europäischer Regulierungsbehörden für elektronische Kommunikation (kurz: BEREC) muss bis Ende August 2016 Leitlinien beschließen, um die Unklare EU Verordnung zu präzisieren. Diese Leitlinien entscheiden über die Zukunft der Netzneutralität in Europa.
 {{ END HOME BEREC-1 }}
 
 {{ BEGIN HOME BEREC-2 }}
-Im Juni 2016 will BEREC seine Entwürfe veröffentlichen und eine öffentliche Konsultation durchführen. Die Verfahrensregeln von BEREC bewirken jedoch, dass die Öffentlichkeit nur __vom 6. Juni bis zum 18. Juli__ Antworten einreichen kann. Die EU-Verordnung schreibt vor, dass BEREC seine endgültigen Richtlinien am 30. August 2016 veröffentlichen muss. Für Bürgerinnen und Bürger bleiben also __nur einige Wochen,__ um auf die Konsultation zu reagieren. BEREC wird dann __nur etwas mehr als einen Monat__ Zeit haben, um die Kommentare (potentiell tausende) zu bearbeiten, ihre Entwürfe anzupassen und dann die administrativen Schritte für eine formelle Zustimmung zu eventuellen Änderungen durchzuführen.
+[Am 6. Juni 2016 hat BEREC seinen Entwurf für die neuen Leitlinien vorgestellt](https://netzpolitik.org/2016/eu-leitlinien-zur-netzneutralitaet-the-good-the-bad-and-the-ugly/){: target="_blank" } und eine öffentliche Konsultation bis zum 18. Juli gestartet. BEREC hat danach bis zum am 30. August 2016 Zeit seine endgültigen Regeln zu veröffentlichen. Für Bürgerinnen und Bürger bleiben also __nur wenige Wochen,__ um auf die Konsultation zu reagieren. BEREC wird dann __nur etwas mehr als einen Monat__ Zeit haben, um die Kommentare (potentiell tausende) zu bearbeiten, ihre Entwürfe anzupassen und dann die administrativen Schritte für eine formelle Zustimmung zu eventuellen Änderungen durchzuführen.
 {{ END HOME BEREC-2 }}
 
 {{ BEGIN HOME BEREC-3 }}
@@ -111,21 +111,20 @@ Im Juni 2016 will BEREC seine Entwürfe veröffentlichen und eine öffentliche K
 {{ END HOME BEREC-3 }}
 
 {{ BEGIN HOME BEREC-4 }}
-### __Dies ist ein entscheidender Moment: Bei diesem Schritt konnten in den USA und in Indien großartige Erfolge erzielt werden. Deshalb müssen wir weiter Druck ausüben und uns für Netzneutralität einsetzen, indem wir unsere Regulatoren von dem hohen Wert eines freien und offenen Internets überzeugen.__
+### __Jetzt ist entscheidender Moment___: In den USA und in Indien haben in der Konsultation Millionen Menschen ihre Meinung geäußert. Deshalb müssen wir weiter Druck ausüben und uns für Netzneutralität einsetzen, indem unseer Meinung gehör verschaffen und die Regulatoren von der Bedeutung eines freien und offenen Internets überzeugen
 
-Die Regulatoren brauchen geeignete Werkzeuge, um Netzneutralität forcieren zu können. Wir von Save The Internet glauben, dass BEREC nicht ausreichend Zeit haben wird, um potentiell zehntausende Reaktionen zu bearbeiten und ausreichend zu berücksichtigen (die US-Regulierungsbehörde für Telekommunikation erhielt 3,7 Millionen Antworten auf ihre Konsultation!). Wir bieten ein Verfahren an, mit dem alle Menschen auf leichte Weise einen sinnvollen Beitrag zu den Richtlinien leisten können. So können wir das Gleichgewicht wieder herstellen.
+Die Regulatoren brauchen die richtigen Werkzeuge, um die Netzneutralität absichern zu können. Die Bürgerrechts- und Verbraucherschutzorganisationen hinter dieser Kampagne glauben, dass BEREC nur mit den Argumenten aus der Bevölkerung zu einer Einhaltung der Netzneutralität zu bewegen sein wird. Deshalb kannst du auf diesser Webseite einfach und schnell einen wertvollen Beitrag in der Konsultation von BEREC leisten. 
 
-Vor kurzem hat BEREC persönliche Treffen mit Interessensvertretungen organisiert. Wir haben die von BEREC an die Interessensvertreter gestellten Fragen ([siehe hier (englisch)](https://edri.org/edris-first-input-on-net-neutrality-guidelines/) und [hier (englisch)](https://www.accessnow.org/rekindling-net-neutrality-our-meeting-with-eus-telecoms-regulators/)) in verständlicher Sprache zusammengefasst und eine kleine Anzahl Fragen hinzugefügt, wo uns dies notwendig erschien.
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## BEREC [braucht eure Eingaben](#send-a-message){: data-scroll="true"}, bevor sie über die Zukunft der Netzneutralität in Europa entscheiden.
+## Sag BEREC [deine Meinung](#send-a-message){: data-scroll="true"}!
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
 ### Kontakt
 
-__Schreib uns doch unter [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
+__Du erreichst uns unter [info@savetheinternet.eu](mailto:info@savetheinternet.eu)__
 
 Du hast eine Verbesserungsidee für diese Website? Sehr gut – wir brauchen dich! Der gesamte Quelltext dieser Website ist [auf GitHub verfügbar](https://github.com/Netzfreiheit/STI-UI) und kann geforkt, verbessert und zurück an uns gepusht werden.
 
