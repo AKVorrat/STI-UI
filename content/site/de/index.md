@@ -63,9 +63,9 @@ Es scheint, als ob du etwas gratis bekommst, aber Zero-Rating macht deinen Anbie
 {{ BEGIN HOME QUESTIONNAIRE }}
 {{ ANCHOR SEND-A-MESSAGE }}
 
-# Fordere deine nationale Regulierungsbehörde und BEREC auf, Netzneutralität zu&nbsp;sichern
+# Das freie Internet ist in Gefahr! 
 
-Sag den Regulierungsbehörden deine Meinung über die neuen Regeln zur Netzneutralität! Verwende dazu das Fragebogen-Tool unten auf dieser Seite. Wenn du beliebig viele Fragen in den ersten drei Reitern beantwortest, erzeugt das Tool im letzten Reiter eine E-Mail für dich. Diese E-Mail werden wir bei der EU-Regulierungsbehörde für Telekommunikation (BEREC) einreichen.
+Deine Meinung ist wichtig! Hilf die Freiheit des Internets in Europa zu erhalten, indem du dich hier an der Konsultation zu den neuen Regeln zur Netzneutralität beteiligst. Jeder Kommentar ist wichtig und es kostet dich nur 2 Minuten deiner Zeit deiner Stimme gehör zu verschaffen. Beantworte diese wenigen Fragen und erstelle damit einen offiziellen Kommentar an die euroäischen Telekom-Regulierungsbehörden (BEREC).
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
