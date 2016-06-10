@@ -65,7 +65,7 @@ Es scheint, als ob du etwas gratis bekommst, aber Zero-Rating macht deinen Anbie
 
 # Fordere deine nationale Regulierungsbehörde und BEREC auf, Netzneutralität zu&nbsp;sichern
 
-Sag den Regulierungsbehörden deine Meinung über die neuen Regeln zur Netzneutralität! Verwende dazu das Fragebogen-Tool unten auf dieser Seite. Wenn du beliebig viele Fragen in den ersten drei Reitern beantwortest, erzeugt das Tool im letzten Reiter eine E-Mail für dich. Diese E-Mail werden wir bei der EU-Regulierungsbehörde für Telekommunikation (BEREC) einreichen, wenn die offizielle Konsultation im Juni 2016 startet.
+Sag den Regulierungsbehörden deine Meinung über die neuen Regeln zur Netzneutralität! Verwende dazu das Fragebogen-Tool unten auf dieser Seite. Wenn du beliebig viele Fragen in den ersten drei Reitern beantwortest, erzeugt das Tool im letzten Reiter eine E-Mail für dich. Diese E-Mail werden wir bei der EU-Regulierungsbehörde für Telekommunikation (BEREC) einreichen.
 
 {{ BEGIN QUESTIONNAIRE-IFRAME }}
 {{ END QUESTIONNAIRE-IFRAME }}
