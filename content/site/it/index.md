@@ -118,7 +118,7 @@ Recentemente il BEREC ha organizzato degli incontri a tu per tu con vari gruppi 
 {{ END HOME BEREC-4 }}
 
 {{ BEGIN HOME BEREC-5 }}
-## Il BEREC [ha bisogno del tuo aiuto](#invia-un-messaggio) {: data-scroll="true"} prima di decidere il futuro della neutralità della rete in Europa.
+## Il BEREC [ha bisogno del tuo aiuto](#invia-un-messaggio) {: data-scroll="true" } prima di decidere il futuro della neutralità della rete in Europa.
 {{ END HOME BEREC-5 }}
 
 {{ BEGIN HOME CONTACT-US }}
