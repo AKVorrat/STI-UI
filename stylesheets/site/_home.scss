@@ -3,13 +3,15 @@
   background-repeat: no-repeat;
   background-size: 161px;
   min-height: 86px;
-
   padding-top: 30px;
+  padding-left: 161px;
+  text-align: left;
 
   ul {
     display: inline;
     list-style-type: none;
     margin-top: 0px;
+	padding: 0px;
     li {
       display: inline;
       a {
@@ -23,7 +25,7 @@
   .navigation__sections {
     text-align: center;
     li {
-      padding-right: 50px;
+      padding-right: 30px;
       a {
         letter-spacing: 0.14em;
       }
