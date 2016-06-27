@@ -93,6 +93,7 @@
       margin-right: auto;
       width: available;
       visibility: hidden;
+      margin-bottom: 1em;
       tr {
         td:nth-child(odd) {
           @include setFontToBaseline(32px, 1, 1);
