@@ -107,7 +107,7 @@ Si formas parte de una organización que quiere apoyar la campaña y ayudarnos a
 
 Un servicio específico es cualquier servicio proporcionado a través de la conexión de acceso a Internet al que el proveedor de Internet le otorga una calidad adicional. Bajo la [Regulación](http://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32015R2120), cualquier optimización de este tipo debe ser objetivamente necesaria para el servicio electrónico al que se accede y no una simple priorización del servicio. El proveedor de acceso a Internet debe también asegurarse de que hay suficiente capacidad en la red para que la calidad del acceso normal a Internet no se vea degradada. Esta necesidad debe ser verificada por la autoridad reguladora de telecomunicaciones nacional. En corto, un "servicio específico" no pude ser una "vía rápida" discriminatoria.
 
-Los servicios especializados reales no tienen nada que ver con Internet. Son servicios que quizás usan la misma tecnología i a veces la misma arquitectura física, pero no son parte del Internet global porque requieren un nivel de calidad que no puede ser ofrecido por Internet.
+Los servicios especializados reales no tienen nada que ver con Internet. Son servicios que quizás usan la misma tecnología y a veces la misma arquitectura física, pero no son parte del Internet global porque requieren un nivel de calidad que no puede ser ofrecido por Internet.
 
 ## ¿Ejemplos de servicios que no son servicios especializados? {#ejemplos-de-servicios-no-especializados}
 
